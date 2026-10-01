@@ -1,3 +1,3 @@
-# ArennoiaImages
-hosts arennoias website art images
-All images used here are allcreated by me and i reserve all rights
+# Rextle's Hosting Repo
+hosts my stuff
+Everything here was created by me and reserve all rights to them
